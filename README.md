@@ -1,10 +1,10 @@
 # Advanced Applied Econometrics -- Summer 2025
 
-#### Maximilian Blesch (MB), Peter Haan (PH), Hannes Ullrich (HU), Felix Weinhardt (FW)
+#### Maximilian Blesch (MB), Peter Haan (PH), Max Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
 
 ### Course organization
 
-- The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Room Popper, 2.3.020).
+- The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Ostrom Hall).
 - All material can be found here: https://github.com/hannesullrich/bse_gc_aae_2025
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
@@ -159,7 +159,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 6 Introduction: econometric modeling of economic choices / Python coding (June 6, PH and MB)
+### 6 Introduction: econometric modeling of economic choices / Python coding (June 6, PH, MB and MS)
 
 - **Methodology fights** Angrist and Pischke (2010), Frijters (2013), Haile (2022), Heckman (2010), Keane (2010), Rust (2010), Rust (2014), Wolpin (2013)
 - **Basics discrete choice** van Soest (1995), Train (2009)
@@ -235,7 +235,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 10 Dynamic discrete choice in Labour (July 4, PH and MB)
+### 10 Dynamic discrete choice in Labour (July 4, PH, MB and MS)
 
 - Dynamic incentives to labour supply: investing in human capital
 - More on Discretisation
@@ -249,7 +249,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 11 Dynamic discrete choice in Labour (July 11, PH and MB)
+### 11 Dynamic discrete choice in Labour (July 11, PH, MB and MS)
 
 - Dynamic incentives to labour supply: the role of education, full time and part time experience
 - Identification and validation of structural parameters
