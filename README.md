@@ -49,6 +49,9 @@ applied in non-experimental settings) that works without distributional assumpti
 - Oster, Emily (2019), Unobservable Selection and Coefficient Stability: Theory and Evidence, *Journal of Business & Economic Statistics, 37*(2).
 
 - Altonji, J. G., Elder, T. E., & Taber, C. R. (2005), Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools. Journal of Political Economy, 113(1), 151-184.
+  
+- Angrist, Joshua D. and Alan B. Krueger, “Chapter 23 - Empirical Strategies in Labor Economics,” in Orley C. Ashenfelter and David Card, eds., Orley C. Ashenfelter
+and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp. 1277–13. For this course only: https://www.dropbox.com/scl/fi/ow3uutws2mh1za25q2xra/AngristKrueger1999Handbook.pdf?rlkey=tndqyqa4kqb9qmp6tvelvysnh&dl=0
 
 - Young, Alwyn (2019), Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, *Quarterly Journal of Economics*, 134(2).
 
@@ -59,7 +62,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 2 Panel Data/Fixed Effects (April 25, FW)
+### 2 Panel Data/Fixed Effects (May 2, FW)
 
 - Fixed effects and first differences: identification and interpretation
 - Application to panel settings and beyond
@@ -78,7 +81,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 3 Difference-in-difference (May 2, FW)
+### 3 Difference-in-difference (May 9, FW)
 
 - Canonical DID model
 - Event study framework, two-way fixed-effects
@@ -104,7 +107,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 4 IV (May 9 and May 16, FW)
+### 4 IV (May 16 and May 23, FW)
 
 - Introduction: The Wald estimator, IV with homogeneous treatment effects, assessment of instruments
 - LATE: can we learn anything when treatment effects are heterogeneous?
@@ -129,7 +132,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 5 Regression discontinuity (May 23, FW)
+### 5 Regression discontinuity (May 30, FW)
 
 - Introduction: Sharp and fuzzy RD
 - Threats to identification and RD diagnostics (bunching, covariate distribution)
