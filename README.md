@@ -33,16 +33,16 @@
 
 ### 1 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (April 25, FW)
 
-In this session, we will cover different topics of general interest, before turning to more specific methods.
+In this session, we will cover different topics of general interest before turning to more specific methods.
 These are (a) sometimes we are just left with the OLS. Can we learn anything from coefficient movements
-and the stability of our estimates when including or excluding more controls?, (b) in this course we will not
-talk about inference much but here is one powerful method for inference in experiments (that can also be
-applied in non-experimental settings) that works without distributional assumptions, its Fisher inference...,
-(c) for both topics we will use Stata, so this is being introduced alongside.
+and the stability of our estimates when including or excluding more controls? We will explore different methods and their interpretation under homogeneous and heterogeneous treatment effects. (b) In this course, we will not
+talk about inference much, but here is one powerful method for inference in experiments (that can also be
+applied in non-experimental settings) that works without distributional assumptions, it's Fisher inference... there is a very good chance we will only get to look at Fisher in week 2, though,
+(c) We will use Stata for both topics, so this is being introduced alongside. Students have in the past used R (at their own risk) in the beginning - by the end of the course everyone was on Stata.
 
 - Assessing endogeneity problems in OLS through coefficient movements
-- Fisher inference
 - Introduction to Stata software
+- Fisher inference (potentially next week)
 
 #### References
 
@@ -55,8 +55,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 - Young, Alwyn (2019), Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results, *Quarterly Journal of Economics*, 134(2).
 
-- **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Randomization In-
-ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
+- Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Randomization Inference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
 
 - Murphy, Richard, Gill Wyness, and Felix Weinhardt (2021), Who teaches the teachers? A RCT of peer-to-peer observation and feedback in 181 schools. The Economics of Education Review 2021, vol. 82. https://doi.org/10.1016/j.econedurev.2021.102091
 
@@ -64,6 +63,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 ### 2 Panel Data/Fixed Effects (May 2, FW)
 
+- Fisher inference (see last week for readings)
 - Fixed effects and first differences: identification and interpretation
 - Application to panel settings and beyond
 
@@ -86,10 +86,11 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 - Canonical DID model
 - Event study framework, two-way fixed-effects
 - Potential issues: Staggered treatment, parallel trends, inference
+- Misspecification and weighting in OLS
 
 #### References
 
-- Joshua D. Angrist and J ̈orn-Steffen Pischke (2008), Mostly Harmless Econometrics: An Empiricist’s Companion, Chapter 5.2, Differences-in-differences: Pre and Post, Treatment and Control.
+- Joshua D. Angrist and Jorn-Steffen Pischke (2008), Mostly Harmless Econometrics: An Empiricist’s Companion, Chapter 5.2, Differences-in-differences: Pre and Post, Treatment and Control.
 
 - Martha J. Bailey and Andrew Goodman-Bacon (2015), The War on Poverty’s Experiment in Public Medicine: Community Health Centers and the Mortality of Older Americans, *American Economic Review, 105* (3): 1067-1104.
 
@@ -97,7 +98,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 - **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**, https://mixtape.scunning.com/09-difference_in_differences.
 
-- Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending inDifference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
+- Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
 
 - Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,” https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
 
