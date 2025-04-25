@@ -28,7 +28,7 @@
 
 ### Graded Assignment Submission
 
-- We will use GitHub Classrooms to submit assignments. Please register by accepting the introductory assignment [here](https://classroom.github.com/a/63ByB7Ov).
+- The course uses GitHub Classrooms to manage graded assignment submission. Please register by accepting the introductory assignment [here](https://classroom.github.com/a/63ByB7Ov).
 - Please select your name from the list or add it to the roster.
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
@@ -168,6 +168,16 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 - Sanchis-Guarner, R., Montalban, J., & Weinhardt, F. (2021). Home broadband and human capital formation. Available at SSRN 3772087. https://www.cesifo.org/DocDL/cesifo1_wp8846.pdf
 
+## Lectures - Part 2
+
+In the second part of the lecture, solutions to the problem sets and their discussion are conducted using Python. After Lecture 5, an installation guide and resources for setting up Python on your computer will be provided. The discussion of the exercises will take place interactively during the lectures:
+
+- Up to three teams will present different parts of the problem set.
+- Students are not expected to have perfect solutions but should discuss their challenges and obstacles.
+- Solutions to the problem sets will be provided one day before the lecture.
+- Deadlines for graded problem sets are on Wednesdays at 23:59, prior to the lecture.
+
+These problem sets will likely require significant time investment. Please make sure to plan ahead so that you have sufficient time available in this period.
 
 
 ### 6 Introduction: econometric modeling of economic choices / Python coding (June 6, PH, MB and MS)
