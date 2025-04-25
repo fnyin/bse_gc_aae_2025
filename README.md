@@ -26,6 +26,13 @@
 - Establish basic estimation techniques & numerical methods such as simulation and numerical integration.
 
 
+### Graded Assignment Submission
+
+- We will use GitHub Classrooms to submit assignments. Please register by accepting the introductory assignment [here](https://classroom.github.com/a/63ByB7Ov).
+- Please select your name from the list or add it to the roster.
+- You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
+- After a team is created, a team repository is created, where you will upload your solutions.
+
 
 
 ## Lectures
