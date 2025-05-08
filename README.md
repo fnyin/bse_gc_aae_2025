@@ -28,8 +28,7 @@
 
 ### Graded Assignment Submission
 
-- The course uses GitHub Classrooms to manage graded assignment submission. Please register by accepting the introductory assignment [here](https://classroom.github.com/a/63ByB7Ov).
-- Please select your name from the list or add it to the roster.
+- The course uses GitHub Classrooms to manage graded assignment submission. You can currently accept the first graded assignment [here](https://classroom.github.com/a/Y104qSuv)
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
 
