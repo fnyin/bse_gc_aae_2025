@@ -1,5 +1,6 @@
 # Advanced Applied Econometrics -- Summer 2025
 
+
 #### Maximilian Blesch (MB), Peter Haan (PH), Max Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
 
 ### Course organization
