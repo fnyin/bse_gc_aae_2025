@@ -1,0 +1,1 @@
+Dear student, pls complete the IV-warmup table before coming to class this Friday.
