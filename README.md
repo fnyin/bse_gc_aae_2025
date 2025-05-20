@@ -138,6 +138,8 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 - Lundborg, Petter, Erik Plug, and Astrid Würtz Rasmussen. 2017. “Can Women Have Children and a Career? IV Evidence from IVF Treatments.” *American Economic Review, 107* (6): 1611-37.
 
+- More readings are posted in the online-folder. You do not need to read these in details but make sure you understand the key components.
+
 
 
 ### 5 Regression discontinuity (May 30, FW)
