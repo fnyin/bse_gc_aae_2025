@@ -1,7 +1,7 @@
 # Advanced Applied Econometrics -- Summer 2025
 
 
-#### Maximilian Blesch (MB), Peter Haan (PH), Max Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
+#### Maximilian Blesch (MB), Peter Haan (PH), Maxi Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
 
 ### Course organization
 
@@ -29,7 +29,7 @@
 
 ### Graded Assignment Submission
 
-- The course uses GitHub Classrooms to manage graded assignment submission.
+- The course uses GitHub Classrooms to manage graded assignment submission. You can currently accept the second graded assignment [here](https://classroom.github.com/a/lF9hyYzX).
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
 
