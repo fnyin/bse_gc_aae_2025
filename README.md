@@ -6,7 +6,7 @@
 ### Course organization
 
 - The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Ostrom Hall).
-- All material can be found here: https://github.com/hannesullrich/bse_gc_aae_2025
+- All material can be found here: https://github.com/AppliedEconBerlin/bse_gc_aae_2025
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
 - First session: April 25, 2025
