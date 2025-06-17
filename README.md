@@ -244,7 +244,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 9 Dynamic discrete choice (June 27, HU)
+### 9 Dynamic discrete choice (CHANGE OF DATE: June 25, 15:30-18:30, HU)
 
 - Introduction to dynamics
 - Estimating a single-agent dynamic discrete choice model: Rust (1987) engine replacement problem
