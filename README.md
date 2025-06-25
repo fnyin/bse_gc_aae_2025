@@ -32,7 +32,7 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
-- You can currently accept the second graded assignment [here](https://classroom.github.com/a/6YY_v_Dm).
+- You can currently accept the third graded assignment [here](https://classroom.github.com/a/6YY_v_Dm).
 
 
 ## Lectures
