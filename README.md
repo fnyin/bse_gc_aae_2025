@@ -27,6 +27,16 @@
 - Establish basic estimation techniques & numerical methods such as simulation and numerical integration.
 
 
+### Exam Information:
+- Date: **July 18, 9am**; Elinor Ostrom Hall (DIW); duration 2hrs
+- All material covered in the course is relevant for the exam.
+- Structure: 1/2 Part I (FW), 1/2 Part II: IO (HU) & labor (PH)
+- Allowed materials:
+    - Hand-written or printed notes: 10 pages, double-sided, A4
+    - **No** digital devices!
+    - Non-programmable calculator
+
+
 ### Graded Assignment Submission
 
 - The course uses GitHub Classrooms to manage graded assignment submission. 
