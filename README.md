@@ -30,11 +30,13 @@
 ### Exam Information:
 - Date: **July 18, 9am**; Elinor Ostrom Hall (DIW); duration 2hrs
 - All material covered in the course is relevant for the exam.
+- There will be no questions on Python/Coding. However, the problem sets are relevant for the exam. You have to be able to conceptually discuss all covered models and implementation techniques with respect to setup, solution, estimation and simulation.
 - Structure: 1/2 Part I (FW), 1/2 Part II: IO (HU) & labor (PH)
 - Allowed materials:
-    - Hand-written or printed notes: 10 pages, double-sided, A4
+    - You are allowed to bring your own written or printed out notes (10 pages, double-sided, A4). No other lecture/exercise/reading material.
     - **No** digital devices!
     - Non-programmable calculator
+- The set of questions is the same for PhDs and Masters students.
 
 
 ### Graded Assignment Submission
@@ -42,8 +44,10 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
+- The fourth graded problem set will be made available soon and is due on **August, 15**.
+<!---
 - You can currently accept the third graded assignment [here](https://classroom.github.com/a/6YY_v_Dm).
-
+-->
 
 ## Lectures
 
