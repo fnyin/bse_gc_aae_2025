@@ -45,9 +45,8 @@
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
 - The fourth graded problem set will be made available soon and is due on **August, 15**.
-<!---
-- You can currently accept the third graded assignment [here](https://classroom.github.com/a/6YY_v_Dm).
--->
+- You can accept the fourth graded assignment [here](https://classroom.github.com/a/koXhtqo0).
+
 
 ## Lectures
 
