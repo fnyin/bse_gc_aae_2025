@@ -33,7 +33,7 @@
 - There will be no questions on Python/Coding. However, the problem sets are relevant for the exam. You have to be able to conceptually discuss all covered models and implementation techniques.
 - Structure: 1/2 Part I (FW), 1/2 Part II: IO (HU) & labor (PH)
 - Allowed materials:
-    - You are allowed to bring your own written or printed out notes (10 pages, double-sided, A4). No other lecture/exercise/reading material.
+    - You are allowed to bring your own written or printed out notes (10 sheets of A4 paper, double-sided). No other lecture/exercise/reading material.
     - **No** digital devices!
     - Non-programmable calculator
 - The set of questions is the same for PhDs and Masters students.
